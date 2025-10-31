@@ -1,2 +1,2 @@
 # DSC180A-Methodology-3
-Rihui Ling
+Yunqi Zhang and Rihui Ling
